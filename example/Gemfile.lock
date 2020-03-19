@@ -1,0 +1,23 @@
+PATH
+  remote: ../..
+  specs:
+    unofficial_freee_sdk (1.0.0)
+      faraday (>= 0.14.0)
+      json (~> 2.1, >= 2.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    faraday (1.0.0)
+      multipart-post (>= 1.2, < 3)
+    json (2.3.0)
+    multipart-post (2.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  unofficial_freee_sdk!
+
+BUNDLED WITH
+   1.17.2
